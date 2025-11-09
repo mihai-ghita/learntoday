@@ -1,0 +1,4 @@
+baseURL = 'https://learntoday.dev/'
+languageCode = 'en-us'
+title = 'LearnToday'
+theme='made-simple'
